@@ -1,0 +1,24 @@
+1 Products
+    id
+    name
+    category
+    price
+    size
+    population
+    colors
+    img
+
+
+2 Users
+    id
+    firstname
+    lastname
+    username
+    password
+
+3 Admins
+    id
+    firstname
+    lastname
+    username
+    password
